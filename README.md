@@ -6,4 +6,4 @@ Project Team:
 * Michał Fijałkowski
 * Marcin Janczurewicz
 
-Zapraszam do zapoznania się z dokumentacją - plik PSZT18Z_final
+Zapraszam do zapoznania się z [dokumentacją](PSZT18Z_final.pdf)
